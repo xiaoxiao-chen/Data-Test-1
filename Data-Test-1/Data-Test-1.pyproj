@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="data-processing-first.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Data_Test_1.py" />
   </ItemGroup>
   <PropertyGroup>
